@@ -1,2 +1,4 @@
 langchain-community
 langchain-groq
+llama-index
+llama-index-llms-groq
